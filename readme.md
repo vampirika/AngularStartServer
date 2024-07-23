@@ -49,3 +49,5 @@ Before you begin, ensure you have the following installed:
 ## License
 
 This project is licensed under the MIT License.
+
+This project has been extended following the tutorial from Alex on the YouTube channel Code Deck: https://www.youtube.com/watch?v=f7BJFTEbc10
